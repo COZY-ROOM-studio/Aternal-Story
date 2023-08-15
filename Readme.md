@@ -22,7 +22,7 @@
 Клонировать репозиторий можно так:
 
 ```
-git clone SSH-адрес_вашего_форка
+git clone SSH-адрес_репозитория
 ```
 
 Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
@@ -32,7 +32,6 @@ git clone SSH-адрес_вашего_форка
 Перед тем как попасть в ветку `master` ваш код должен пройти проверку. Сообщайте в общий чат по готовности.
 
 ---
+<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="COZY ROOM studio" src="https://i.ibb.co/6vbvCz2/image.png"></a>
 
-<img align="left" width="50" height="50" alt="COZY ROOM studio" src="https://i.ibb.co/6vbvCz2/image.png">
-
-Репозиторий создан командой разработчиков неформальной студи [COZY ROOM studio](https://t.me/COZY_ROOM_st_News).
+Репозиторий создан командой разработчиков</br>неформальной студи [COZY ROOM studio](https://t.me/COZY_ROOM_st_News).
